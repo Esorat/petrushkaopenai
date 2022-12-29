@@ -49,6 +49,10 @@ body {
   padding: 15px;
 }
 
+.temperature {
+  width: 50px;
+}
+
 .ai {
   background: #40414f;
 }
