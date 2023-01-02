@@ -13,7 +13,7 @@ body {
 
 #app {
   width: 100vw;
-  height: 100vh;
+  height: 94vh;
   background: #343541;
 
   display: flex;
@@ -47,10 +47,6 @@ body {
 .wrapper {
   width: 100%;
   padding: 15px;
-}
-
-.temperature {
-  width: 180px;
 }
 
 .ai {
@@ -128,7 +124,7 @@ form {
   gap: 10px;
 }
 
-input {
+textarea {
   width: 100%;
 
   color: #fff;
