@@ -13,7 +13,7 @@ body {
 
 #app {
   width: 100vw;
-  height: 100vh;
+  height: 94vh;
   background: #343541;
 
   display: flex;
@@ -52,10 +52,6 @@ body {
 .temperature {
   width: 180px;
 }
-.texthelper {
-
-}
-
 
 .ai {
   background: #40414f;
